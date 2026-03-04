@@ -1,4 +1,4 @@
-package com.caio.pinho.authservice;
+package com.caio.pinho.auth;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

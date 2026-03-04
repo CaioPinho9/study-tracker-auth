@@ -1,4 +1,4 @@
-package com.caio.pinho.authservice;
+package com.caio.pinho.auth;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
