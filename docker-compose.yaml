@@ -1,7 +1,7 @@
 services:
   postgres:
     image: postgres:16
-    container_name: study-tracker-postgres
+    container_name: daily-ritual-postgres
     environment:
       POSTGRES_DB: study_tracker
       POSTGRES_USER: study

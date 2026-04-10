@@ -12,7 +12,7 @@
 	<artifactId>daily-ritual-auth</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>daily-ritual-auth</name>
-	<description>Auth service for Study Tracker (JWT access + refresh cookie)</description>
+	<description>Auth service for Daily Ritual (JWT access + refresh cookie)</description>
 	<url/>
 	<licenses>
 		<license/>
